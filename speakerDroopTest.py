@@ -40,8 +40,8 @@ import time
 import datetime
 import re
 
-ispLoginName = '_Y&?"])4~2pxGk4cBtC-o'
-ispLoginPassword = '%zeW(96eE-3)y~n["J-3pz9_2Bf`Q:&+]J!@it?'
+ispLoginName = ''
+ispLoginPassword = ''
 rm = ""
 dsoScope = ""
 UARTcmdDelay = 1
